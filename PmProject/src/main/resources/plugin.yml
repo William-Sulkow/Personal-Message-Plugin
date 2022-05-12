@@ -1,0 +1,10 @@
+name: PmProject
+version: '${project.version}'
+main: me.williamsulkow.pmproject.Main
+api-version: 1.18
+authors: [ Sillydance ]
+description: Private Message Project
+commands:
+  r:
+  message:
+    aliases: m
